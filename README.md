@@ -37,7 +37,7 @@
 <br>
 <div
 <p></p>
-<p>👇👇Here's what I'm upto</p>
+<p>👇👇Here's what I'm upto:</p>
 <p>I'm currently mastering MERN stack</p>
 <p>Have worked on Web development and IoT projects</p>
 <p>Contributed to some innovative product developments</p>
