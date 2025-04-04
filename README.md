@@ -35,6 +35,11 @@
   </a>
 </div>
 
+<p>I'm currently mastering MERN stack</p>
+<p>Have worked on Web development and IoT projects</p>
+<p>Contributed to some innovative product developments</p>
+<p>Currently mastering DSA and problem solving</p>
+
 ###
 
 <br clear="both">
