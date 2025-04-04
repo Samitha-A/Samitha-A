@@ -34,12 +34,15 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+<br>
+<div
 <p></p>
 <p>👇👇Here's what I'm upto</p>
 <p>I'm currently mastering MERN stack</p>
 <p>Have worked on Web development and IoT projects</p>
 <p>Contributed to some innovative product developments</p>
 <p>Currently mastering DSA and problem solving</p>
+</div>
 
 ###
 
