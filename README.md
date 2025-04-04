@@ -1,16 +1,27 @@
-## Hi there 👋
+Hello Busy people, I'm Samitha Amutharajan
+Fullstack developer
 
-<!--
-**Samitha-A/Samitha-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently mastering MERN stack
+I have worked on Fullstack & IOT projects
+I’m currently focusing on DSA and problem solving
+
+💻 Tech Stack:
+Problem solving:
+C Java
+
+Web development:
+HTML5 CSS3 JavaScript
+
+NPM React NodeJS Express.js React Native
+
+Database:
+MySQL MongoDB
+
+Tools & Software:
+
+Figma Canva
+
+Visual Studio Code GitHub Copilot Postman Arduino
