@@ -38,10 +38,9 @@
 <div
 <p></p>
 <p>👇👇Here's what I'm upto:</p>
-<p>I'm currently mastering MERN stack</p>
-<p>Have worked on Web development and IoT projects</p>
-<p>Contributed to some innovative product developments</p>
-<p>Currently mastering DSA and problem solving</p>
+<p>I'm currently an MTS @Zoho</p>
+<p>Working on: Machine Learning - WAF - Java Backend</p>
+<p>College Projects: MERN, IoT, Python and Java</p>
 </div>
 
 ###
